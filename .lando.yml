@@ -1,0 +1,4 @@
+name: rupert
+recipe: lamp
+config:
+  webroot: .
