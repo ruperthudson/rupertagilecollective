@@ -12,3 +12,8 @@
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
 - https://www.php.net/manual/en/reserved.variables.post.php
 - https://www.php.net/manual/en/function.echo.php
+
+### Questions
+- What is the response status code?
+- What is the request content type?
+- Which HTTP method did the request use?
