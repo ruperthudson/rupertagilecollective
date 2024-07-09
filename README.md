@@ -18,3 +18,5 @@
 - What is the request content type?
 - Which HTTP method did the request use?
 - What is PHP doing for us in this very simple application?
+- What type of "rendering" is at play here?
+- What alternative implementation could provide the same functionality?
