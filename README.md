@@ -17,3 +17,4 @@
 - What is the response status code?
 - What is the request content type?
 - Which HTTP method did the request use?
+- What is PHP doing for us in this very simple application?
