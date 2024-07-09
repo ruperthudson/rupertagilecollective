@@ -7,6 +7,7 @@
 - Create a HTML form which allows the input of a first and last name
 - On submission of the form, send the data to the PHP script
 - Get the PHP script to display `Hello [first name] [last name]`
+- If either the first or last name is null/empty, display an error message.
 
 ### Resources
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
