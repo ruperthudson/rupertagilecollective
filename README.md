@@ -2,7 +2,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/agilecollective/rupert)
 
-## Exercise: form submission
+## Exercise: HTML form submission
 
 - Create a HTML form which allows the input of a first and last name
 - On submission of the form, send the data to the PHP script
