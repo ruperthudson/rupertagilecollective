@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+}
+
+/* label {
+    display: block;
+} */
+
+input:invalid {
+    border: 2px solid red;
+}
+
+div.form-input-container:has(input:required:invalid)::after {
+    content: 'Field cannot be empty.';
+    color: red;
+}
