@@ -18,7 +18,7 @@ async function onSubmit(event) {
     }
     
     try {
-        const response = await fetch("/submit2.php", { "body": JSON.stringify(reqobj), "method": "POST" });
+        const response = await fetch("/submit2.php", { "body": JSON.stringify(reqobj), "method": "GET" });
         if (!response.ok) {
           throw new Error(`Response status: ${response.status}`);
         }

@@ -1,4 +1,7 @@
 name: rupert
 recipe: lamp
+services:
+  myservice:
+    type: mysql
 config:
   webroot: .
